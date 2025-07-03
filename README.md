@@ -40,4 +40,3 @@ DevConnect/
 ![Website UI](image.png)
 ![Website UI Dark Mode](image-1.png)
 ![Mobile Responsive Design](image-2.png)
-
